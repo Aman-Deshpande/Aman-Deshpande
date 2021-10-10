@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aman-Deshpande](https://github.com/Aman-Deshpande)
 
-- 💬 Ask me about **html, css, bootstrap, sass, JavaScript, C++, C, python, Java**
+- 💬 Ask me about **html, css, bootstrap, sass, JavaScript, C++, C, python, Java, React.js**
 
 - 📫 How to reach me **amandeshpande392@gmail.com**
 
