@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aman_392" target="blank"><img src="https://img.shields.io/twitter/follow/aman_392?logo=twitter&style=for-the-badge" alt="aman_392" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, React**
+- 🌱 I’m currently learning **Data Structures and Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aman-Deshpande](https://github.com/Aman-Deshpande)
 
