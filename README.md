@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Deshpande</h1>
-<h3 align="center">I'm Aman a 2nd year Information Technology Undergraduate from Vishwakarma Institue of Information Technology, Pune. I'm a Tech Enthusiast, aspiring Full-Stack Web Developer. I love to explore and learn about new domains and Technologies</h3>
+<h3 align="center">I'm Aman a Pre-Final year Information Technology Undergraduate from Vishwakarma Institue of Information Technology, Pune. I'm a Tech Enthusiast, and a MERN Stack Developer. I love to explore and learn about new domains and Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-deshpande&label=Profile%20views&color=0e75b6&style=flat" alt="aman-deshpande" /> </p>
 
